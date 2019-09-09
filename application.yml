@@ -4,3 +4,6 @@ api:
 service:
   fallbackFortune: "Your future is bright. Enjoy!"
   serviceURL: //fortune-service
+url:
+  apiURL: http://bpark-fortune-api.apps.pcfone.io
+  uiURL: http://bpark-fortune-ui.apps.pcfone.io
