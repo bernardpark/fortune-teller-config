@@ -1,6 +1,6 @@
 api:
-  fallbackFortune: API is not responding.
+  fallbackFortune: "API is not responding."
   apiURL: //fortune-api
 service:
-  fallbackFortune: Your future is bright: enjoy!
+  fallbackFortune: "Your future is bright. Enjoy!"
   serviceURL: //fortune-service
